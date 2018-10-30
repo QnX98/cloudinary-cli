@@ -90,3 +90,5 @@ Options:
 
 **Multiple files**
 - `cloudTool d -a <public_id1> <public_id3> <public_id3> ...`
+
+:enjoy:
